@@ -50,7 +50,6 @@ body{
 #galeri img{
   height: 300px;
   width: 940px;
-  margin: 10px 10px;
 }
  
 .yazi{
@@ -85,7 +84,7 @@ body{
 /* Hide the images by default */
 .mySlides {
   display: none;
-  background-color: green;
+  background-color: grey;
 }
 
 /* Next & previous buttons */
