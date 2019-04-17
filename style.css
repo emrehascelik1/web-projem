@@ -59,6 +59,15 @@ body{
   margin-left: 15px;
   margin-bottom: 30px;
 }
+.yazii {
+    width: 900px;
+    height: 200px;
+    float: left;
+    background-color: #34fdba;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
 .yazi h1{
   color: whitesmoke;
   margin-left: 10px;
