@@ -3,6 +3,7 @@
 body,h1{
   margin: 0px;
   padding: 0px;
+  color: white;
 }
 body{
   background-color: grey;
@@ -39,7 +40,7 @@ body{
   font-size: 14pt;
 }
 #menu li a:hover{
-  background-color: #295784;
+  background-color: green;
   border-radius: 10px;
 }
  
@@ -58,6 +59,7 @@ body{
   background-color: #5E95E0;
   margin-left: 15px;
   margin-bottom: 30px;
+  color: white;
 }
 .yazii {
     width: 900px;
@@ -68,6 +70,7 @@ body{
     margin-bottom: 30px;
     margin-top: 25px;
     background: rgba(0,0,0,0);
+    color: white;
 }
 .yazi h1{
   color: whitesmoke;
@@ -78,6 +81,7 @@ body{
   text-indent: 20px;
   text-align: justify;
   margin: 10px;
+  color: white;
 }
 .temizle{
   clear: both;
@@ -177,3 +181,4 @@ body{
   from {opacity: .4} 
   to {opacity: 1}
 }
+p.ex{color: white;}
